@@ -1,11 +1,11 @@
 # Hello, I'm Joel 👋
 
 ## About Me
-- 🎓 I’m currently a student pursuing a Bachelor's in IT (Data Science) & Cognitive and Brain Sciences at Macquarie University.
+- 🎓 I’m a dual degree graduate in IT (Data Science) & Cognitive and Brain Sciences at Macquarie University.
 - 🧠 I'm deeply interested in the intersection of technology and cognitive sciences, exploring how data science can contribute to understanding the human brain.
-- 🌱 I’m currently learning advanced data analysis techniques and cognitive science theories.
-- 🤔 I’m looking for opportunities to collaborate on projects related to data science and cognitive science.
-- 💬 Feel free to ask me about my coursework and what I'm learning at university.
+- 🌱 I’m familiar with various forms of hypothesis testing, data analysis, machine learning and data mining.
+- 🤔 I’m looking for opportunities to work in data science or analyst roles.
+- 💬 Feel free to ask me about my experiences at Sydney FC!
 - 📫 How to reach me: https://www.linkedin.com/in/joel-mclean/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I compete in Girevoy (Kettlebell) Sport
